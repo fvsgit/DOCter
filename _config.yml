@@ -37,6 +37,9 @@ navigation:
 - text: Example Page
   url: example_page/
   internal: true
+- text: Test Page
+  url: test_page/
+  internal: true
 - text: DOCter Repo
   url: https://github.com/cfpb/DOCter
   internal: false
